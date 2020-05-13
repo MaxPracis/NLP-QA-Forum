@@ -1,13 +1,14 @@
 # NLP on QA Forum
 We predicted the best answers of the questions using the features provided, including the texts. \
 
-Data Preparation
+## Data Preparation
 - Time data treatment
 - Label encoding
 - Embedding using Word2Vec
 - Down / Upsampling for the umbalanced target variable
 \
-Modelling
+\
+## Modelling
 - Xgboost: ROC-AUC 84%
 - Neural Network (linear stack of layers): Accuracy 92%, MSE 0.08
 \
