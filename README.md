@@ -7,7 +7,6 @@ We predicted the best answers of the questions using the features provided, incl
 - Embedding using Word2Vec
 - Down / Upsampling for the umbalanced target variable
 \
-\
 ## Modelling
 - Xgboost: ROC-AUC 84%
 - Neural Network (linear stack of layers): Accuracy 92%, MSE 0.08
